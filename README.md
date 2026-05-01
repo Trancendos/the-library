@@ -16,6 +16,10 @@ pnpm install
 pnpm dev
 ```
 
+## Documentation
+
+- [Trancendos / Infinity Document Taxonomy Framework](docs/document-taxonomy-framework.md) — shared classification guidance for categories, pillars, ecosystem locations, governance metadata, and Library search tags.
+
 ## License
 
 MIT © Trancendos
